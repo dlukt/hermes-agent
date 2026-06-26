@@ -12,7 +12,7 @@ from typing import Any, Mapping
 from utils import base_url_hostname
 
 
-ZAI_OPENCODE_USER_AGENT = "opencode/1.17.9"
+ZAI_OPENCODE_USER_AGENT = "opencode/1.17.11"
 _ZAI_HOSTS = frozenset({"api.z.ai", "open.bigmodel.cn"})
 
 
